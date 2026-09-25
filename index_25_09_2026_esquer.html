@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+</head>
+<body>
+    <div class="diagramas">
+
+        <div class="d1">
+            <a href="diagrama_idea_esquer.html">DIAGRAMA GENERAL</a>
+        </div>
+
+        <div class="d2">
+            <a href="customers.html">DIAGRAMA PARA OBTENER CLIENTES</a>
+        </div>
+
+        <div class="d3">
+            <a href="money.html">DIAGRAMA PARA REMUNERAR</a>
+        </div>
+
+    </div>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: #4766ff;
+            background: linear-gradient(180deg, rgba(71, 102, 255, 1) 0%, rgba(111, 137, 232, 1) 43%, rgba(83, 219, 237, 1) 100%);
+            font-family: Arial, sans-serif;
+        }
+
+        .diagramas {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+            padding: 30px;
+        }
+
+        .diagramas a {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            min-width: 260px;
+            padding: 18px 24px;
+            border: 1px solid rgba(255, 255, 255, 0.45);
+            border-radius: 16px;
+            text-decoration: none;
+            color: #ffffff;
+            font-size: 14px;
+            font-weight: 700;
+            letter-spacing: 1px;
+            text-align: center;
+            background: linear-gradient(135deg, rgba(255, 255, 255, 0.20), rgba(255, 255, 255, 0.05));
+            box-shadow: 0 10px 25px rgba(15, 35, 120, 0.25), inset 0 1px 0 rgba(255, 255, 255, 0.35);
+            transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+        }
+
+        .diagramas a:hover {
+            transform: translateY(-3px);
+            background: linear-gradient(135deg, rgba(255, 255, 255, 0.28), rgba(172, 214, 255, 0.15));
+            box-shadow: 0 14px 30px rgba(15, 35, 120, 0.30), inset 0 1px 0 rgba(255, 255, 255, 0.45);
+        }
+    </style>
+</body>
+</html>
