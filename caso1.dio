@@ -1,0 +1,68 @@
+<mxfile host="65bd71144e">
+    <diagram id="ik1zkPFPN64J5WB2xqvF" name="Page-1">
+        <mxGraphModel dx="655" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="muBHh0pUS27cdVsxkJXL-12" edge="1" parent="1" source="muBHh0pUS27cdVsxkJXL-8" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="muBHh0pUS27cdVsxkJXL-13" value="">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="370" y="230" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="SyBL2ruqyBxHWk9sCDFb-1" edge="1" parent="1" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="muBHh0pUS27cdVsxkJXL-18">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="310" y="250" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="SyBL2ruqyBxHWk9sCDFb-6" edge="1" parent="1" source="muBHh0pUS27cdVsxkJXL-8" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="SyBL2ruqyBxHWk9sCDFb-2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="muBHh0pUS27cdVsxkJXL-8" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Actor" vertex="1">
+                    <mxGeometry height="60" width="30" x="285" y="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="muBHh0pUS27cdVsxkJXL-13" parent="1" style="shape=ellipse;container=1;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;html=1;dashed=0;collapsible=0;" value="" vertex="1">
+                    <mxGeometry height="120" width="180" x="385" y="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="muBHh0pUS27cdVsxkJXL-14" parent="muBHh0pUS27cdVsxkJXL-13" style="html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rotatable=0;whiteSpace=wrap;" value="Inicio de sesión" vertex="1">
+                    <mxGeometry height="10" width="140" x="20" y="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="muBHh0pUS27cdVsxkJXL-15" parent="muBHh0pUS27cdVsxkJXL-13" style="line;strokeWidth=1;fillColor=none;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=0;resizeWidth=1;" value="" vertex="1">
+                    <mxGeometry height="10" width="162" x="9" y="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="muBHh0pUS27cdVsxkJXL-16" parent="muBHh0pUS27cdVsxkJXL-13" style="text;html=1;align=center;verticalAlign=middle;rotatable=0;fillColor=none;strokeColor=none;whiteSpace=wrap;" value="El cliente ingresa los datos necesarios para iniciar sesión en el sitio web y poder acceder a su contenido" vertex="1">
+                    <mxGeometry height="30" width="162" x="9" y="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="muBHh0pUS27cdVsxkJXL-18" parent="1" style="shape=ellipse;container=1;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;html=1;dashed=0;collapsible=0;" value="" vertex="1">
+                    <mxGeometry height="120" width="180" x="385" y="310" as="geometry"/>
+                </mxCell>
+                <mxCell id="muBHh0pUS27cdVsxkJXL-19" parent="muBHh0pUS27cdVsxkJXL-18" style="html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rotatable=0;whiteSpace=wrap;" value="&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;R&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;egistro&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="10" width="140" x="20" y="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="muBHh0pUS27cdVsxkJXL-20" parent="muBHh0pUS27cdVsxkJXL-18" style="line;strokeWidth=1;fillColor=none;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=0;resizeWidth=1;" value="" vertex="1">
+                    <mxGeometry height="10" width="162" x="9" y="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="muBHh0pUS27cdVsxkJXL-21" parent="muBHh0pUS27cdVsxkJXL-18" style="text;html=1;align=center;verticalAlign=middle;rotatable=0;fillColor=none;strokeColor=none;whiteSpace=wrap;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;El cliente ingresa los datos necesarios para registrarse en el sitio web cómo un cliente (emprendedor o empresa) en busca de proveedores de servicios para su negocio&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="162" x="9" y="54" as="geometry"/>
+                </mxCell>
+                <mxCell id="SyBL2ruqyBxHWk9sCDFb-2" parent="1" style="shape=ellipse;container=1;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;html=1;dashed=0;collapsible=0;" value="" vertex="1">
+                    <mxGeometry height="120" width="180" x="30" y="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="SyBL2ruqyBxHWk9sCDFb-3" parent="SyBL2ruqyBxHWk9sCDFb-2" style="html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rotatable=0;whiteSpace=wrap;" value="Explorar el sitio web" vertex="1">
+                    <mxGeometry height="10" width="140" x="20" y="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="SyBL2ruqyBxHWk9sCDFb-4" parent="SyBL2ruqyBxHWk9sCDFb-2" style="line;strokeWidth=1;fillColor=none;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=0;resizeWidth=1;" value="" vertex="1">
+                    <mxGeometry height="10" width="162" x="9" y="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="SyBL2ruqyBxHWk9sCDFb-5" parent="SyBL2ruqyBxHWk9sCDFb-2" style="text;html=1;align=center;verticalAlign=middle;rotatable=0;fillColor=none;strokeColor=none;whiteSpace=wrap;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;El cliente puede navegar por distintas categorías de servicios hasta encontrar el proveedor que más le convenzca, pudiendo contactarlo para contratar sus servicios&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="162" x="9" y="53" as="geometry"/>
+                </mxCell>
+                <mxCell id="SyBL2ruqyBxHWk9sCDFb-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&quot;Cliente&quot;" vertex="1">
+                    <mxGeometry height="30" width="60" x="268" y="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="SyBL2ruqyBxHWk9sCDFb-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DIAGRAMA DE CASO DE USO PARA LOS &quot;CLIENTES&quot; DEL SITIO WEB" vertex="1">
+                    <mxGeometry height="30" width="170" x="215" y="100" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
