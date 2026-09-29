@@ -1,0 +1,64 @@
+<mxfile host="65bd71144e">
+    <diagram id="l8iYKe_8efbrzOqJq4y8" name="Page-1">
+        <mxGraphModel dx="655" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="32Aga6rBxAyDohQOzTtj-11" edge="1" parent="1" source="32Aga6rBxAyDohQOzTtj-1" style="edgeStyle=none;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="32Aga6rBxAyDohQOzTtj-9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="32Aga6rBxAyDohQOzTtj-17" edge="1" parent="1" source="32Aga6rBxAyDohQOzTtj-1" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="32Aga6rBxAyDohQOzTtj-12">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="32Aga6rBxAyDohQOzTtj-23" edge="1" parent="1" source="32Aga6rBxAyDohQOzTtj-1" style="edgeStyle=none;html=1;entryX=0.976;entryY=0.328;entryDx=0;entryDy=0;entryPerimeter=0;" target="32Aga6rBxAyDohQOzTtj-18">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="32Aga6rBxAyDohQOzTtj-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Actor" vertex="1">
+                    <mxGeometry height="60" width="30" x="305" y="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="32Aga6rBxAyDohQOzTtj-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DIAGRAMAS PARA CASOS DE USO &quot;PROGRAMADOR&quot;" vertex="1">
+                    <mxGeometry height="30" width="120" x="260" y="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="32Aga6rBxAyDohQOzTtj-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&quot;Programador&quot;" vertex="1">
+                    <mxGeometry height="30" width="60" x="290" y="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="32Aga6rBxAyDohQOzTtj-6" parent="1" style="shape=ellipse;container=1;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;html=1;dashed=0;collapsible=0;" value="" vertex="1">
+                    <mxGeometry height="120" width="180" x="50" y="97" as="geometry"/>
+                </mxCell>
+                <mxCell id="32Aga6rBxAyDohQOzTtj-7" parent="32Aga6rBxAyDohQOzTtj-6" style="html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rotatable=0;whiteSpace=wrap;" value="Darle soporte al&lt;div&gt;sitio web&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="30" width="180" y="5" as="geometry"/>
+                </mxCell>
+                <mxCell id="32Aga6rBxAyDohQOzTtj-8" parent="32Aga6rBxAyDohQOzTtj-6" style="line;strokeWidth=1;fillColor=none;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=0;resizeWidth=1;" value="" vertex="1">
+                    <mxGeometry height="10" width="162" x="9" y="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="32Aga6rBxAyDohQOzTtj-9" parent="32Aga6rBxAyDohQOzTtj-6" style="text;html=1;align=center;verticalAlign=middle;rotatable=0;fillColor=none;strokeColor=none;whiteSpace=wrap;" value="Se le da soporte y se actualiza el sitio web dependiendo de las necesidades de este y de los usuarios" vertex="1">
+                    <mxGeometry height="30" width="171" x="4.5" y="55" as="geometry"/>
+                </mxCell>
+                <mxCell id="32Aga6rBxAyDohQOzTtj-12" parent="1" style="shape=ellipse;container=1;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;html=1;dashed=0;collapsible=0;" value="" vertex="1">
+                    <mxGeometry height="120" width="180" x="420" y="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="32Aga6rBxAyDohQOzTtj-13" parent="32Aga6rBxAyDohQOzTtj-12" style="html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rotatable=0;whiteSpace=wrap;" value="Atender tickets de error" vertex="1">
+                    <mxGeometry height="30" width="180" y="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="32Aga6rBxAyDohQOzTtj-14" parent="32Aga6rBxAyDohQOzTtj-12" style="line;strokeWidth=1;fillColor=none;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=0;resizeWidth=1;" value="" vertex="1">
+                    <mxGeometry height="10" width="162" x="9" y="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="32Aga6rBxAyDohQOzTtj-15" parent="32Aga6rBxAyDohQOzTtj-12" style="text;html=1;align=center;verticalAlign=middle;rotatable=0;fillColor=none;strokeColor=none;whiteSpace=wrap;" value="Se encarga de atender problemas que los clientes puedan tener al momento de usar el sitio web&amp;nbsp;" vertex="1">
+                    <mxGeometry height="30" width="180" y="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="32Aga6rBxAyDohQOzTtj-18" parent="1" style="shape=ellipse;container=1;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;html=1;dashed=0;collapsible=0;" value="" vertex="1">
+                    <mxGeometry height="120" width="180" x="50" y="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="32Aga6rBxAyDohQOzTtj-19" parent="32Aga6rBxAyDohQOzTtj-18" style="html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rotatable=0;whiteSpace=wrap;" value="Manejo de APIs de&lt;div&gt;servicios de pago&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="30" width="180" y="7" as="geometry"/>
+                </mxCell>
+                <mxCell id="32Aga6rBxAyDohQOzTtj-20" parent="32Aga6rBxAyDohQOzTtj-18" style="line;strokeWidth=1;fillColor=none;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=0;resizeWidth=1;" value="" vertex="1">
+                    <mxGeometry height="10" width="162" x="9" y="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="32Aga6rBxAyDohQOzTtj-21" parent="32Aga6rBxAyDohQOzTtj-18" style="text;html=1;align=center;verticalAlign=middle;rotatable=0;fillColor=none;strokeColor=none;whiteSpace=wrap;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Se encarga de manejar las APIs de los servicios de pago para que los usuarios puedan pagar su suscripción y recibir notificaciones referentes a esta desde el sitio web&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="171" x="4.5" y="55" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
